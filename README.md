@@ -1,4 +1,4 @@
-# Kullanıcı Listesi Uygulaması (Vue.js)
+# Kullanıcı Listesi Uygulaması (Vue.js) (Tamamen Vue.js yapısını öğrenme amacıyla geliştirilmiştir)
 
 Bu proje, **Vue.js** kullanılarak geliştirilmiş bir kullanıcı listesi uygulamasıdır. Kullanıcı bilgileri bir API'den çekilmekte ve liste halinde görüntülenmektedir. Ayrıca kullanıcı detayları bir detay sayfasında gösterilmektedir.
 
